@@ -35,4 +35,4 @@ Sistema desenvolvido em Python com integração ao MySQL, que permite realizar o
 | **Eduardo**      | Desenvolvimento da funcionalidade de consulta de alunos e disciplinas |
 | **Kauã**         | Desenvolvimento da interface gráfica utilizando Tkinter   |
 
-Login: 12345678900 Senha: admin123
+# 📚 Login:12345678900 Senha:admin123
