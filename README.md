@@ -34,3 +34,5 @@ Sistema desenvolvido em Python com integração ao MySQL, que permite realizar o
 | **Maria Eduarda**| Criação e modelagem do banco de dados (MySQL)             |
 | **Eduardo**      | Desenvolvimento da funcionalidade de consulta de alunos e disciplinas |
 | **Kauã**         | Desenvolvimento da interface gráfica utilizando Tkinter   |
+
+Login: 12345678900 Senha: admin123
